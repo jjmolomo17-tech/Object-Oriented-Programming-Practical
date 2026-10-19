@@ -1,0 +1,9 @@
+{
+  "name": "food-delivery-system",
+  "version": "1.0.0",
+  "description": "Food Delivery System using JavaScript OOP",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
